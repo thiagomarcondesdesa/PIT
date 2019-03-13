@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\PIT\PIT\bin\Debug\netcoreapp2.0\PIT.deps.json
+C:\Users\Aluno\source\repos\PIT\PIT\bin\Debug\netcoreapp2.0\PIT.runtimeconfig.json
+C:\Users\Aluno\source\repos\PIT\PIT\bin\Debug\netcoreapp2.0\PIT.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\PIT\PIT\bin\Debug\netcoreapp2.0\PIT.dll
+C:\Users\Aluno\source\repos\PIT\PIT\bin\Debug\netcoreapp2.0\PIT.pdb
+C:\Users\Aluno\source\repos\PIT\PIT\obj\Debug\netcoreapp2.0\PIT.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\PIT\PIT\obj\Debug\netcoreapp2.0\PIT.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\PIT\PIT\obj\Debug\netcoreapp2.0\PIT.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\PIT\PIT\obj\Debug\netcoreapp2.0\PIT.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\PIT\PIT\obj\Debug\netcoreapp2.0\PIT.dll
+C:\Users\Aluno\source\repos\PIT\PIT\obj\Debug\netcoreapp2.0\PIT.pdb
