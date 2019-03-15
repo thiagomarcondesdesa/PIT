@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts{
+    <script src="~/js/Login/login.js"></script>
+}
+
+<h2>Login</h2>
+
+<ul class="loginContainer">
+
+    <li>
+        <label class="label">
+            Usuário:
+        </label>
+        <input type="text" value="" id="txtLogin" />
+    </li>
+    <li>
+        <label class="label">
+            Senha:
+        </label>
+        <input type="password" value="" id="txtSenha" />
+    </li>
+    <li>
+        <div id="divMsg"></div>
+        <input type="button" value="Logar" onclick="index.logar()" />
+    </li>
+</ul>
+
+
+
+
+
